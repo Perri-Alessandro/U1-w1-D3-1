@@ -1,0 +1,67 @@
+nav img {
+  display: block;
+  width: 11%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+h5 {
+  border: 0px solid;
+  padding: 1.1em 0;
+  border-top: 1px solid yellow;
+  background-color: rgb(245, 241, 219);
+  color: rgb(0, 100, 92);
+  text-align: center;
+  font-size: 90%;
+}
+h1 {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 60px;
+  font-weight: bold;
+  font-size: 215%;
+}
+.center {
+  width: 35%;
+  margin-left: auto;
+  margin-right: auto;
+}
+article img {
+  width: 99%;
+  border-radius: 10px;
+}
+.descrizioneImmagine {
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0.4em;
+  color: rgba(0, 0, 0, 0.397);
+}
+.featured {
+  margin-top: 20px;
+  color: rgba(201, 0, 0, 0.719);
+  font-weight: bold;
+  border-left: 0.08em solid rgb(255, 230, 0);
+  padding-left: 15px;
+}
+a {
+  color: rgb(0, 146, 134);
+}
+h2 {
+  font-weight: 500;
+  margin-top: 50px;
+}
+.hr {
+  color: rgba(0, 0, 0, 0.397);
+  margin-bottom: 30px;
+}
+h4 {
+  font-size: x-large;
+  font-weight: 400;
+  padding-bottom: -100px;
+}
+.lastP {
+  margin-top: -0.1em;
+}
